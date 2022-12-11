@@ -13,7 +13,7 @@ Click demo to try it by yourself!
 ## Amazon-Clone Demo Link
 
 You can view the site here
-[Click Me]()
+[Click Me](https://roaring-pegasus-79f8c1.netlify.app)
 
 ## Topics
 
